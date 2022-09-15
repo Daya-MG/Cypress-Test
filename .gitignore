@@ -1,0 +1,29 @@
+# visual studio code files
+.vscode
+
+# mac system files
+*/.DS_Store
+.DS_Store
+
+
+
+# test run artifacts
+cypress/cucumber-json
+cypress/logs
+cypress/screenshots
+cypress/snapshots
+cypress/test-results
+cypress/videos
+screenshots
+snapshots
+test-results
+tmpData
+
+# node
+node_modules
+
+
+# log files
+debug.log
+.history
+
