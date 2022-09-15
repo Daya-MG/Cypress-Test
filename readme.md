@@ -2,7 +2,7 @@
 I have used cypress to implement the testing of sharebar functionality in the URL
 https://www.businessinsider.com/ikea-nyc-store-planning-studio-tour-2019-4
 
-#Setup
+###Setup
 cypress is a nodejs package, so first task is to 
 
 ```
