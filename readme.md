@@ -14,8 +14,9 @@ Install cypress through the below command
 ```
 
 2.download the test code from github through gitclone command
-` `
-
+```
+   gh repo clone Daya-MG/Cypress-Test
+```
 #### Install dependencies from package.json
 
 To install all dependencies from package.json use:
