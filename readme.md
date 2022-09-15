@@ -2,7 +2,7 @@
 I have used cypress to implement the testing of sharebar functionality in the URL
 https://www.businessinsider.com/ikea-nyc-store-planning-studio-tour-2019-4
 
-###Setup
+#### Setup
 cypress is a nodejs package, so first task is to 
 
 ```
@@ -17,7 +17,7 @@ Install cypress through the below command
    npm install cypress
 ```
 
-2.download the test code from github through gitclone command
+#### download the test code from github through gitclone command
 ```
    gh repo clone Daya-MG/Cypress-Test
 ```
@@ -38,7 +38,7 @@ npm ci
 
 ```
 
-# Running tests
+#### Running tests
 
 1. Command-line
 
