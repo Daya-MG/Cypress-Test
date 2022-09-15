@@ -3,8 +3,12 @@ I have usded cypress to implement the testing of sharebar functionality in the U
 https://www.businessinsider.com/ikea-nyc-store-planning-studio-tour-2019-4
 
 #Setup
-cypress is a nodejs package, s first is
+cypress is a nodejs package, so first task is to 
+
+```
 Install nodejs and npm
+
+```
 
 To initiate the project
 Install cypress through the below command
